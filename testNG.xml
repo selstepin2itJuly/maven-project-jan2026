@@ -23,4 +23,17 @@
       <class name="testcases.MyInfoTest"/>
     </classes>
   </test> <!-- Test -->
+  
+  <test name="Test - PIM Test">
+  <!--<groups>
+    <run>
+      <include name="sanity"/>
+      <exclude name="reg"/>
+    </run>
+  </groups> -->
+  
+    <classes>
+      <class name="testcases.MyInfoTest"/>
+    </classes>
+  </test>
 </suite> <!-- Suite -->
